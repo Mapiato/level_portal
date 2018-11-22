@@ -1,0 +1,7 @@
+*.pyc
+*.~
+__pycache__
+Pipfile
+Pipfile.lock
+/static
+.DS_Store
